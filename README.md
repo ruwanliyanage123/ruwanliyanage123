@@ -29,4 +29,6 @@
 
 <br />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruwanliyanage123&&title_color=5DFF00&icon_color=5DFF00&text_color=5DFF00&bg_color=000000&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <br/>
