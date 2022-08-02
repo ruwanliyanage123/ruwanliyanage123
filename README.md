@@ -19,6 +19,9 @@
 <a href="https://gitlab.com/ruwanliyanage/">
   <img align="left" alt="gitlab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/gitlab.svg" />
 </a>
+<a href="https://www.hackerrank.com/ruwanliyanage">
+  <img align="left" alt="gitlab" height="27px" width="27px" src="https://img.icons8.com/windows/512/hackerrank.png" />
+</a>
 <br />
 
 <br />
