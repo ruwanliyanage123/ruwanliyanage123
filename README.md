@@ -13,7 +13,7 @@
 <a href="https://www.linkedin.com/in/ruwan-liyanage/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://medium.com/@2019ruwan/">
+<a href="https://medium.com/@ruwan-liyanage">
   <img align="left" alt="Medium" width="22px" src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Medium_svg5-512.png" />
 </a>
 <a href="https://gitlab.com/ruwanliyanage/">
