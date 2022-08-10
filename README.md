@@ -1,6 +1,6 @@
 ### Hi there 👋, I'am Ruwan
 
-- 🔭 I’m currently working as a Software Engineer at Cambio Software Engineering
+- 🔭 I’m currently working as a Senior Software Engineer at Cambio Software Engineering
 - 🌱 I graduated B.Sc. in Computer Science - University of Colombo School of Computing.
 - 👯 I’m looking to collaborate on Free and open-source Projects
 - ⚡ Fun fact: singing.😄
