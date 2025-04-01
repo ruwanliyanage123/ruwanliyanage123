@@ -1,4 +1,4 @@
-### Hi there 👋, I'am Ruwan
+### Hi there 👋, I'am Ruwan Liyanage
 
 - 🔭 I’m currently working as a Senior Software Engineer at Sysco Labs Sri Lanka
 - 🌱 I graduated B.Sc. in Computer Science - University of Colombo School of Computing.
